@@ -1,5 +1,7 @@
 # Builder Tools Fabric Mod for Minecraft
 
+![requires-fabric.png](readme/requires-fabric.png)
+
 ![](src/main/resources/assets/buildertools/icon.png)
 
 ## Description
